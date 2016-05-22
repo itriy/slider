@@ -1,0 +1,24 @@
+{
+  "name": "webpack-es6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "css-loader": "*",
+    "extract-text-webpack-plugin": "*",
+    "jade": "*",
+    "jade-loader": "*",
+    "style-loader": "*",
+    "stylus": "*",
+    "stylus-loader": "*",
+    "webpack": "*"
+  }
+}
